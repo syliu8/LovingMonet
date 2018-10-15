@@ -1,6 +1,6 @@
 # Project Title: deep learning for arts
 
-Using the methodology discussed in the one paper and a pre-trained VGG network, we are able to separate and recombine content and style of arbitrary images, to generate artistic images of high perceptual quality. Besides, we also perfrom segmented style transfer and video transfer.
+Using the methodology discussed in the one paper and a pre-trained VGG network, we are able to separate and recombine content and style of arbitrary images, to generate artistic images of high perceptual quality. Besides, we also perfrom segmented style transfer and video transfer. For video output sample please see https://github.com/syliu8/LovingMonet/blob/master/output/big_yawn.gif
 
 ### Prerequisites
 
